@@ -11,5 +11,9 @@ I named my route table, picked the vpc that was created by lita for easy flow of
 added a public subnet to it for internet accessibility, also for outbound and inbound rules. 
 below is an image
 ![route table](/Rtable.jpeg)
-
+### created my NACL
+creating and NACL for a security that can acts as a firewall to control traffic in and out of the subnet. 
+named my nacl the first step i took, selected the vpc created by lita and i clicked on create nacl 
+ below is the details
+![NACL](/MiracleNACL.jpeg) 
  
