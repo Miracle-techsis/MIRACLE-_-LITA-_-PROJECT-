@@ -6,4 +6,10 @@ STEPS ON HOW I CREATED MY SECURITY group
  I also added an outbound rule that all traffic should be allowed. then i created my security group 
  below is a screenshot
 ![Security group details](/MiracleSG.jpeg)
+### created a route table
+I named my route table, picked the vpc that was created by lita for easy flow of work.
+added a public subnet to it for internet accessibility, also for outbound and inbound rules. 
+below is an image
+![route table](/Rtable.jpeg)
+
  
