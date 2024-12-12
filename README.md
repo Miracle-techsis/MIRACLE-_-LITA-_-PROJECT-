@@ -15,5 +15,15 @@ below is an image
 creating and NACL for a security that can acts as a firewall to control traffic in and out of the subnet. 
 named my nacl the first step i took, selected the vpc created by lita and i clicked on create nacl 
  below is the details
-![NACL](/MiracleNACL.jpeg) 
+![NACL](/MiracleNACL.jpeg)
+#lunching my instance 
+ ## steps on how i created my EC2
+ named my instance
+ selected amazon linux 2 as the os and a t2.micro for my instance type
+ configured it with a public subnet and assigned a security to it the one i CREATED
+ created a keypair, named it choose a keypair type which is RSA, clicked on keypair
+ selected the vpc that was created earlier by LITA
+ i chose the public subnet afterwards
+ made sure the Auto assign public IP is enabled, i selected the security group i created earlier . left the configure storage at 8g
+ 
  
