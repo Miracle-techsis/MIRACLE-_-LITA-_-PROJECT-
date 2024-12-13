@@ -26,4 +26,5 @@ named my nacl the first step i took, selected the vpc created by lita and i clic
  i chose the public subnet afterwards
  made sure the Auto assign public IP is enabled, i selected the security group i created earlier . left the configure storage at 8g
 (/EC2running.jpeg)
- 
+ My Apache upload 
+ ![Apache](/APACHE.jpeg)
